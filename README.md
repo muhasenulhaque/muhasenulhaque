@@ -6,7 +6,6 @@ An experienced financial consultant with extensive Board-level experience and a 
 
 Specialties: Financial Modelling, Project Financial Feasibility Study, Big Data Analysis, International Financial Reporting Standards
 
-Experience
 <!--
 **muhasenulhaque/muhasenulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
